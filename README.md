@@ -2,9 +2,10 @@
 ### Author: fxchain
 
 
+Install:
 ```
 mkdir fxchain && cd fxchain
-git clone -b 12-09-francois-xavier git@github.com:fxchain/adveris.git .
+git clone -b 12-09-francois-xavier https://github.com/fxchain/adveris.git .
 ```
 
 
